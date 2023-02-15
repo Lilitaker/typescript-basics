@@ -1,4 +1,4 @@
-//Using the JS date-fns library - it supports TS
+//Using the JS date-fns library - it supports TS types
 
 import { subDays, format } from 'date-fns';
 
